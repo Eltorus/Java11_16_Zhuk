@@ -1,0 +1,282 @@
+џэт 15, 2017 9:28:23 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Welcome, Vasya!
+џэт 15, 2017 9:28:23 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Account Vasya has been deleted
+џэт 15, 2017 10:14:48 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Welcome, Vasya!
+џэт 15, 2017 10:14:48 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Vasya, your order is accepted
+џэт 15, 2017 10:14:48 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Account Vasya has been deleted
+џэт 15, 2017 10:16:04 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Welcome, Vasya!
+џэт 15, 2017 10:16:04 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Vasya, your order is accepted
+џэт 15, 2017 10:22:58 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Welcome, Vasya!
+џэт 15, 2017 10:26:48 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Welcome, Vasya!
+џэт 15, 2017 10:27:33 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Welcome, Vasya!
+џэт 15, 2017 10:27:33 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Vasya, your order is accepted
+џэт 15, 2017 10:31:20 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Welcome, Vasya!
+џэт 15, 2017 10:31:20 PM by.tc.eq.controller.Controller executeTask
+SEVERE: Error: Error during ordering procedure: This good doesn't exist
+џэт 15, 2017 11:02:42 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Welcome, Vasya!
+џэт 15, 2017 11:02:43 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Vasya, your order is accepted
+џэт 15, 2017 11:02:43 PM by.tc.eq.controller.Controller executeTask
+SEVERE: Error: Error during adding equipment
+џэт 15, 2017 11:02:43 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Equipment Ball has been deleted
+џэт 15, 2017 11:07:25 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Welcome, Vasya!
+џэт 15, 2017 11:07:25 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Vasya, your order is accepted
+џэт 15, 2017 11:07:25 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Equipment Ball has been deleted
+џэт 15, 2017 11:07:45 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Welcome, Vasya!
+џэт 15, 2017 11:07:45 PM by.tc.eq.controller.Controller executeTask
+SEVERE: Error: Error during ordering procedure: You cannot take more than 3 equipments
+џэт 15, 2017 11:07:45 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Equipment Ball has been deleted
+џэт 15, 2017 11:17:38 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Welcome, Vasya!
+џэт 15, 2017 11:17:38 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Vasya, your order is accepted
+џэт 15, 2017 11:17:38 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Equipment Ball has been deleted
+џэт 15, 2017 11:17:52 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Welcome, Vasya!
+џэт 15, 2017 11:17:52 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Vasya, your order is accepted
+џэт 15, 2017 11:17:52 PM by.tc.eq.controller.Controller executeTask
+SEVERE: Error: Error during adding equipment: java.sql.SQLException: Operation not allowed after ResultSet closed
+џэт 15, 2017 11:17:52 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Equipment Ball has been deleted
+џэт 15, 2017 11:19:31 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Welcome, Vasya!
+џэт 15, 2017 11:19:31 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Vasya, your order is accepted
+џэт 15, 2017 11:19:31 PM by.tc.eq.controller.Controller executeTask
+SEVERE: Error: Fields of equipment are empty
+џэт 15, 2017 11:19:31 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Equipment Ball has been deleted
+џэт 15, 2017 11:20:31 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Welcome, Vasya!
+џэт 15, 2017 11:20:31 PM by.tc.eq.controller.Controller executeTask
+SEVERE: Error: Error during ordering procedure: You cannot take more than 3 equipments
+џэт 15, 2017 11:20:31 PM by.tc.eq.controller.Controller executeTask
+SEVERE: Error: Error during adding equipment: This equipment already exists
+џэт 15, 2017 11:20:31 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Equipment Ball has been deleted
+џэт 15, 2017 11:20:49 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Welcome, Vasya!
+џэт 15, 2017 11:20:49 PM by.tc.eq.controller.Controller executeTask
+SEVERE: Error: Error during ordering procedure: You cannot take more than 3 equipments
+џэт 15, 2017 11:20:49 PM by.tc.eq.controller.Controller executeTask
+SEVERE: Error: Error during adding equipment: This equipment already exists
+џэт 15, 2017 11:20:49 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Equipment Ball has been deleted
+џэт 15, 2017 11:22:13 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Welcome, Vasya!
+џэт 15, 2017 11:22:13 PM by.tc.eq.controller.Controller executeTask
+SEVERE: Error: Error during ordering procedure: You cannot take more than 3 equipments
+џэт 15, 2017 11:22:13 PM by.tc.eq.controller.Controller executeTask
+SEVERE: Error: Error during adding equipment: This equipment already exists
+џэт 15, 2017 11:22:13 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Equipment Ball has been deleted
+џэт 15, 2017 11:22:21 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Welcome, Vasya!
+џэт 15, 2017 11:22:21 PM by.tc.eq.controller.Controller executeTask
+SEVERE: Error: Error during ordering procedure: You cannot take more than 3 equipments
+џэт 15, 2017 11:22:21 PM by.tc.eq.controller.Controller executeTask
+SEVERE: Error: Error during adding equipment: java.sql.SQLException: Operation not allowed after ResultSet closed
+џэт 15, 2017 11:22:21 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Equipment Ball has been deleted
+џэт 15, 2017 11:22:31 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Welcome, Vasya!
+џэт 15, 2017 11:22:31 PM by.tc.eq.controller.Controller executeTask
+SEVERE: Error: Error during ordering procedure: You cannot take more than 3 equipments
+џэт 15, 2017 11:22:31 PM by.tc.eq.controller.Controller executeTask
+SEVERE: Error: Error during adding equipment: java.sql.SQLException: Operation not allowed after ResultSet closed
+џэт 15, 2017 11:22:31 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Equipment Ball has been deleted
+џэт 15, 2017 11:25:10 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Welcome, Vasya!
+џэт 15, 2017 11:25:10 PM by.tc.eq.controller.Controller executeTask
+SEVERE: Error: Error during ordering procedure: You cannot take more than 3 equipments
+џэт 15, 2017 11:25:10 PM by.tc.eq.controller.Controller executeTask
+SEVERE: Error: Error during adding equipment: java.sql.SQLException: Operation not allowed after ResultSet closed
+џэт 15, 2017 11:25:10 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Equipment Ball has been deleted
+џэт 15, 2017 11:25:54 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Welcome, Vasya!
+џэт 15, 2017 11:25:54 PM by.tc.eq.controller.Controller executeTask
+SEVERE: Error: Error during ordering procedure: You cannot take more than 3 equipments
+џэт 15, 2017 11:25:54 PM by.tc.eq.controller.Controller executeTask
+SEVERE: Error: Error during adding equipment: java.sql.SQLException: After end of result set
+џэт 15, 2017 11:25:54 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Equipment Ball has been deleted
+џэт 15, 2017 11:26:30 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Welcome, Vasya!
+џэт 15, 2017 11:26:30 PM by.tc.eq.controller.Controller executeTask
+SEVERE: Error: Error during ordering procedure: You cannot take more than 3 equipments
+џэт 15, 2017 11:26:30 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: EquipmentBallsuccessfully added
+џэт 15, 2017 11:26:30 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Equipment Ball has been deleted
+џэт 15, 2017 11:28:10 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Welcome, Vasya!
+џэт 15, 2017 11:28:10 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Vasya, your order is accepted
+џэт 15, 2017 11:28:10 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Equipment Ball added
+џэт 15, 2017 11:28:10 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Equipment Ball has been deleted
+џэт 15, 2017 11:28:10 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Account Vasya has been deleted
+џэт 16, 2017 10:10:59 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Welcome, Vasya!
+џэт 16, 2017 10:11:00 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Vasya, your order is accepted
+џэт 16, 2017 10:11:00 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Equipment Ball added
+џэт 16, 2017 10:11:00 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Equipment Ball has been deleted
+џэт 16, 2017 10:11:00 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Account Vasya has been deleted
+џэт 16, 2017 10:18:07 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Welcome, Vasya!
+џэт 16, 2017 10:18:07 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Welcome, Vasya!
+џэт 16, 2017 10:18:07 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Vasya, your order is accepted
+џэт 16, 2017 10:18:07 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Equipment Ball added
+џэт 16, 2017 10:18:07 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Equipment Ball has been deleted
+џэт 16, 2017 10:18:07 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Account Vasya has been deleted
+џэт 16, 2017 10:18:53 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Vasya ,your account succefully added
+џэт 16, 2017 10:18:53 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Vasya ,your account succefully added
+џэт 16, 2017 10:18:53 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Vasya, your order is accepted
+џэт 16, 2017 10:18:53 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Equipment Ball added
+џэт 16, 2017 10:18:53 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Equipment Ball has been deleted
+џэт 16, 2017 10:18:53 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Account Vasya has been deleted
+џэт 16, 2017 10:21:28 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Vasya ,your account succefully added
+џэт 16, 2017 10:21:28 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Welcome, Vasya!
+џэт 16, 2017 10:21:28 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Vasya, your order is accepted
+џэт 16, 2017 10:21:28 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Equipment Ball added
+џэт 16, 2017 10:21:28 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Equipment Ball has been deleted
+џэт 16, 2017 10:21:28 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Account Vasya has been deleted
+џэт 16, 2017 10:23:11 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Vasya, your account succefully added
+џэт 16, 2017 10:23:11 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Welcome, Vasya!
+џэт 16, 2017 10:23:11 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Vasya, your order is accepted
+џэт 16, 2017 10:23:11 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Equipment Ball added
+џэт 16, 2017 10:23:11 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Equipment Ball has been deleted
+џэт 16, 2017 10:24:57 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Vasya, your account succefully added
+џэт 16, 2017 10:24:57 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Welcome, Vasya!
+џэт 16, 2017 10:24:57 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Vasya, your order is accepted
+џэт 16, 2017 10:24:57 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Equipment Ball added
+џэт 16, 2017 10:24:57 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Equipment Ball has been deleted
+џэт 16, 2017 10:24:57 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Account Vasya has been deleted
+џэт 16, 2017 11:24:15 PM by.tc.eq.controller.Controller executeTask
+SEVERE: Error: Error during registration procedure
+џэт 16, 2017 11:24:15 PM by.tc.eq.controller.Controller executeTask
+SEVERE: Error: Error during login procedure
+џэт 16, 2017 11:24:15 PM by.tc.eq.controller.Controller executeTask
+SEVERE: Error: Error during ordering procedure: by.tc.eq.dao.exception.DAOException: java.sql.SQLException: No suitable driver found for jdbc:mysql://127.0.0.1:3306/shop
+џэт 16, 2017 11:24:15 PM by.tc.eq.controller.Controller executeTask
+SEVERE: Error: Error during adding equipment...
+џэт 16, 2017 11:24:15 PM by.tc.eq.controller.Controller executeTask
+SEVERE: Error: Error during delete procedure
+џэт 16, 2017 11:24:15 PM by.tc.eq.controller.Controller executeTask
+SEVERE: Error: Error during delete procedure
+џэт 16, 2017 11:26:09 PM by.tc.eq.controller.Controller executeTask
+SEVERE: Error: Error during registration procedure
+џэт 16, 2017 11:26:09 PM by.tc.eq.controller.Controller executeTask
+SEVERE: Error: Error during login procedure
+џэт 16, 2017 11:26:09 PM by.tc.eq.controller.Controller executeTask
+SEVERE: Error: Error during ordering procedure: by.tc.eq.dao.exception.DAOException: java.sql.SQLException: No suitable driver found for jdbc:mysql://127.0.0.1:3306/shop
+џэт 16, 2017 11:26:09 PM by.tc.eq.controller.Controller executeTask
+SEVERE: Error: Error during adding equipment...
+џэт 16, 2017 11:26:09 PM by.tc.eq.controller.Controller executeTask
+SEVERE: Error: Error during delete procedure
+џэт 16, 2017 11:26:09 PM by.tc.eq.controller.Controller executeTask
+SEVERE: Error: Error during delete procedure
+џэт 16, 2017 11:29:00 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Vasya, your account succefully added
+џэт 16, 2017 11:29:00 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Welcome, Vasya!
+џэт 16, 2017 11:29:00 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Vasya, your order is accepted
+џэт 16, 2017 11:29:00 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Equipment Ball added
+џэт 16, 2017 11:29:00 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Equipment Ball has been deleted
+џэт 16, 2017 11:29:00 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Account Vasya has been deleted
+џэт 16, 2017 11:30:13 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Vasya, your account succefully added
+џэт 16, 2017 11:30:13 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Welcome, Vasya!
+џэт 16, 2017 11:30:13 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Vasya, your order is accepted
+џэт 16, 2017 11:30:13 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Equipment Ball added
+џэт 16, 2017 11:30:13 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Equipment Ball has been deleted
+џэт 16, 2017 11:30:14 PM by.tc.eq.controller.Controller executeTask
+FINE: Info: Account Vasya has been deleted
+џэт 17, 2017 1:02:24 AM by.tc.eq.controller.Controller executeTask
+FINE: Info: Vasya, your account succefully added
+џэт 17, 2017 1:02:24 AM by.tc.eq.controller.Controller executeTask
+FINE: Info: Welcome, Vasya!
+џэт 17, 2017 1:02:25 AM by.tc.eq.controller.Controller executeTask
+FINE: Info: Vasya, your order is accepted
+џэт 17, 2017 1:02:25 AM by.tc.eq.controller.Controller executeTask
+FINE: Info: Equipment Ball added
+џэт 17, 2017 1:02:25 AM by.tc.eq.controller.Controller executeTask
+FINE: Info: Equipment Ball has been deleted
+џэт 17, 2017 1:02:25 AM by.tc.eq.controller.Controller executeTask
+FINE: Info: Account Vasya has been deleted
+џэт 17, 2017 1:05:04 AM by.tc.eq.controller.Controller executeTask
+FINE: Info: Vasya, your account succefully added
+џэт 17, 2017 1:05:04 AM by.tc.eq.controller.Controller executeTask
+FINE: Info: Welcome, Vasya!
+џэт 17, 2017 1:05:04 AM by.tc.eq.controller.Controller executeTask
+FINE: Info: Vasya, your order is accepted
+џэт 17, 2017 1:05:05 AM by.tc.eq.controller.Controller executeTask
+FINE: Info: Equipment Ball added
+џэт 17, 2017 1:05:05 AM by.tc.eq.controller.Controller executeTask
+FINE: Info: Equipment Ball has been deleted
+џэт 17, 2017 1:05:05 AM by.tc.eq.controller.Controller executeTask
+FINE: Info: Account Vasya has been deleted
