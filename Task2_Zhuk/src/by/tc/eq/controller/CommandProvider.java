@@ -16,7 +16,7 @@ import by.tc.eq.controller.exception.CommandNotFoundException;
 public class CommandProvider {
 	private final Map<CommandName, Command> repository = new HashMap<>();
 
-	CommandProvider() {
+	CommandProvider() {// класс public , а почему единственный конструктор без параметра?
 		repository.put(CommandName.ADD_EQPNT, new AddEquipment());
 		repository.put(CommandName.DELETE_ACCOUNT, new DeleteAccount());
 		repository.put(CommandName.DELETE_EQPNT, new DeleteEquipment());
@@ -29,7 +29,8 @@ public class CommandProvider {
 		Command command = null;
 		try {
 			command = repository.get(name);
-		} catch (IllegalArgumentException | NullPointerException e) {
+		} catch (IllegalArgumentException | NullPointerException e) {// почему ты перехватываешь и гасишь NullPointerException?
+			// ты же так маскируешь серьеьзные ошибки в коде
 			throw new CommandNotFoundException();
 		}
 		return command;

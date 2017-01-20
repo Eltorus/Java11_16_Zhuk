@@ -16,7 +16,7 @@ import by.tc.eq.dao.OwerDAO;
 import by.tc.eq.dao.exception.DAOException;
 
 public class OwerDAOImpl implements OwerDAO {
-	private Connection con;
+	private Connection con;// вынеся сюда это поле ты сделал класс непригодным для использования в многопоточных приложениях
 
 	@Override
 	public void addOwer(Ower ower) throws DAOException {
@@ -28,11 +28,12 @@ public class OwerDAOImpl implements OwerDAO {
 			while (itr.hasNext()) {
 				Equipment eq = itr.next();
 				st.executeUpdate("INSERT INTO `shop`.`rented_units` (`r_id`, `client_id`,`eq_id`) VALUES (DEFAULT, "
-						+ ower.getUser().getId() + "," + eq.getId() + ")");
+						+ ower.getUser().getId() + "," + eq.getId() + ")");// мы PreparedStatement что, не учили?
+				// или кто-то не помнит, когда следует использовать statement, а когда preparedstatement
 				st.executeUpdate("UPDATE `shop`.`equipments` SET `e_amount` = `e_amount`-1 where `e_id`=" + eq.getId());
 				con.commit();
 			}
-			st.close();
+			st.close();// все close - всегда в finally
 		} catch (SQLException e) {
 			try {
 				con.rollback();
@@ -44,7 +45,8 @@ public class OwerDAOImpl implements OwerDAO {
 				try {
 					con.close();
 				} catch (SQLException e) {
-					throw new DAOException("Could not close connection", e);
+					throw new DAOException("Could not close connection", e);// сам же finalle крайне редко сам выбрасывает исключения
+					// лог здесь нужен, а не выброс исключения
 				}
 		}
 	}
