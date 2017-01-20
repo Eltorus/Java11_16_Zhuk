@@ -19,13 +19,13 @@ public class Controller {
 
 	public Controller() {
 		try {
-			fh = new FileHandler("LogFile.log", true);
+			fh = new FileHandler("LogFile.log", true);// очень некорректно инициализировать логгер в каком-либо конструкторе
 			logger.addHandler(fh);
 			logger.setLevel(Level.ALL);
 			SimpleFormatter formatter = new SimpleFormatter();
 			fh.setFormatter(formatter);
 		} catch (IOException e) {
-			throw new NullPointerException("Could not setup logger configuration");
+			throw new NullPointerException("Could not setup logger configuration");//ты подумал, какое конкретно исключение выбросил??!!!!!!
 		}
 	}
 
