@@ -15,7 +15,7 @@ import by.tc.eq.service.service.ClientService;
 import static by.tc.eq.service.validation.Validation.lineisProper;
 
 public class ClientServiceImpl implements ClientService {
-	private DAOFactory factory = DAOFactory.getInstance();
+	private DAOFactory factory = DAOFactory.getInstance();// если объявляешь такое поле, то делай его хотя бы final
 
 	@Override
 	public void addNewUser(User user) throws ServiceException {
