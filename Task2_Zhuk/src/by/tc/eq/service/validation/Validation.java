@@ -1,6 +1,6 @@
 package by.tc.eq.service.validation;
 
-public class Validation {
+public class Validation {// если все методы класса статические, то тогда почему ты разрешаешь создать объект этого класса?
 	public static boolean lineisProper(String line) {
 		boolean result = false;
 		if ((line == null) || (line.isEmpty())) {
