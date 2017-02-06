@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<web-app id="WebApp_9" version="a24" xmlns="resource/web.xsd">
+<web-app version="a24" id="WebApp_9" xmlns="resource/web.xsd">
 <display-name>Servlet 2.4 application</display-name>
 	<welcome-file-list>
 		<welcome-file>index.html</welcome-file>

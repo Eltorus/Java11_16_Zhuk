@@ -20,7 +20,8 @@ public class View {
 				while(iter.hasNext()) {
 					System.out.println(iter.next());
 				}
-
+				System.out.println(webApp.getId());
+				System.out.println(webApp.getVersion());
 			} catch (ControllerException e) {
 			e.printStackTrace();
 		}

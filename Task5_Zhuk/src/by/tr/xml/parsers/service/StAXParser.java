@@ -24,8 +24,8 @@ public class StAXParser {
 					
 					if(reader.getLocalName().equals("web-app")) {
 						webapp = new WebApp();
-						webapp.setId(reader.getAttributeValue(1));
-						webapp.setVersion(reader.getAttributeValue(2));
+						webapp.setId(reader.getAttributeValue(null, "id"));
+						webapp.setVersion(reader.getAttributeValue(null, "version"));
 					}
 					
 					creator.startElement(reader.getLocalName());
